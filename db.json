@@ -3,8 +3,8 @@
       {
         "id": 1,
         "title": "<script>alert(1)</script>"
-      }
-        {
+      },
+      {
         "id": 2,
         "title": "<img src='file:///../../../../../../etc/passwd'>"
       }
