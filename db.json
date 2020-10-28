@@ -1,15 +1,15 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "<script>alert(flag)</script>"
-      }
-        {
-        "id": 2,
-        "title": "<img src='file:///../../../../../../etc/passwd'>"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "title": "<script>alert(flag)</script>"
+    },
+    {
+      "id": 2,
+      "title": "<img src='file:///../../../../../../etc/passwd'>"
     }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
