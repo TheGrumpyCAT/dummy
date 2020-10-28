@@ -1,6 +1,9 @@
 {
   "posts": [
-    alert(1)
+    {
+      "id": alert(1),
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
